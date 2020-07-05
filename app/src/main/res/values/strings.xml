@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Nusantara Resto Delivery</string>
+
+    <string-array name="nama">
+        <item>Ayam Geprek</item>
+        <item>Coto Makassar</item>
+        <item>Gado - gado</item>
+        <item>Lontong Sayur</item>
+        <item>Martabak Manis</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Kuning</item>
+        <item>Nasi Liwet</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+    </string-array>
+
+    <string-array name="penjelasan">
+        <item>Ayam geprek is an Indonesian crispy battered fried chicken crushed and mixed with hot and spicy sambal. Currently ayam geprek is commonly found in Indonesia and neighbouring countries, however its origin was from Yogyakarta in Java.
+/n/n
+Geprek is Javanese term for "crushed" or "smashed", thus ayam geprek means "crushed chicken". It is quite similar to traditional East Javanese ayam penyet, as both are fried chicken smashed and mixed together with hot and spicy sambal chili paste. The difference is ayam penyet is a traditional Javanese ayam goreng half-cooked in bumbu kuning (yellow spice paste) and then deep fried in hot palm oil. Ayam geprek however, is more akin to Western-style (American) fried chicken, which is crispy fried chicken coated with batter, or known in Indonesia as ayam goreng tepung (battered fried chicken).
+</item>
+        <item>Makassar is one of Indonesias most famous culinary destinations. This port city situated at the south of Sulawesi Island is represented in the most traditional dish of the area - coto Makassar. This thick and tasty soup is usually made with beef and a variety of innards, such as tripe, brain, lungs, or intestines.
+/n/n
+The process of preparing coto Makassar is time-consuming, and the meat is left to simmer in the spice-enriched broth for many hours. It is typically served in bowls with a dollop of traditional Indonesian chili sauce known as sambal. The dish is typically served with rice or rice cakes packed in woven palm or coconut leaves.
+    /n/n
+Although it originated in Makassar, the dish can now be found everywhere in Indonesia and at a variety of places, from traditional Indonesian hawker-style food courts to numerous Sulawesi restaurants.
+</item>
+        <item>Gado-gado is an Indonesian version of a mixed salad. It usually consists of a variety of vegetables, eggs, tempeh, and tofu. The vegetables are usually just slightly boiled, tossed with a nutty sauce, then completed with the addition of crispy prawn crackers.
+/n/n
+The sauce was traditionally made with cashews, but due to lower price and availability, peanuts are more frequent today. The dish is a true representative of Indonesian street food, and it has been present in the Indonesian culture since the 16th century.
+/n/n
+It originated among the native people of Jakarta, but today it can be found in all parts of Indonesia. Gado-gado can be a whole dish on its own, but it can also be boosted by the addition of rice, rice crackers, or chicken. This classic Indonesian street food is usually sold by street vendors or at hawker centers, and it can be served for breakfast, lunch, or dinner.
+</item>
+        <item>It looks like a giant pancake with crisp edges where you generously pour the topping with chocolate chips, ground peanuts, grated cheddar cheese and condense milk. This sweet Martabak is a guilty pleasure dish for a lot of people.</item>
+        <item>In Indonesia, especially among Betawi people, lontong usually served as lontong sayur, pieces of lontong served in coconut milk soup with shredded chayote, tempeh, tofu, hard-boiled egg, sambal and kerupuk. Lontong sayur is related and quite similar to Ketupat sayur and is a favourite breakfast menu next to bubur ayam and nasi uduk.</item>
+        <item>Nasi goreng is often referred to as the Indonesian version of fried rice. Although it is considered to be the national dish of Indonesia, it is also commonly eaten in Malaysia and Singapore. It is believed that the tradition of frying rice in Indonesia came from the Chinese culture, when the trade between the two countries started to develop.
+/n/n
+Indonesians adopted the Chinese tradition based on the belief that it is sinful to waste food, and soon, like many other versions of fried rice, nasi goreng was created. Since it was developed out of a practical need, it is usually eaten for breakfast and made with leftover rice from the previous day.
+/n/n
+Precooked rice is usually fried in a small amount of oil, then spiced up with shallots, garlic, chili, or ginger. Indonesian fried rice is distinguished by the generous use of sweet soy sauce, and because of that, it has a deeper and spicier flavor than other varieties of fried rice.
+/n/n
+Nasi goreng is commonly served with eggs. Usually, they are mixed in the rice or fried and served on the side.
+</item>
+        <item>This traditional Indonesian dish consists of rice cooked in coconut milk that is usually seasoned with turmeric, lemongrass, and kaffir lime leaves. Even though yellow rice is the star of nasi kuning, the dish is assembled out of other Indonesian dishes and complements, such as fried chicken, potato fritters, sliced omelet, fried anchovies, shrimps, or fried tempeh.
+
+        /n/nSambal, the traditional Indonesian chili sauce, and serundeng (spicy fried coconut flakes) are often served as condiments. Nasi kuning is always served neatly organized on the plate, and the rice should always be placed in the middle. It is traditionally associated with the island of Java, which is considered to be the place of origin of this authentic Indonesian dish.
+        </item>
+        <item>Nasi liwet is a traditional rice dish originating from Solo, Indonesia. The rice is cooked in coconut milk, along with chicken broth and various seasonings such as bay leaves and lemongrass. It can be topped with shredded chicken, omelet, anchovies, chili peppers, and various vegetables.
+        /n/n
+This dish can be served on its own, or alongside chicken cooked in coconut milk, telur pindang (eggs boiled together with shallot skins and soy sauce), or tempeh (soybean cake). Traditionally, nasi liwet is cooked in clay pots, and it is served on banana or teak leaves.</item>
+        <item>Rendang is an Indonesian meat dish which originated among the Minangkabau people in West Sumatra. The dish is famous for its spiciness and a long cooking procedure. It is often compared to Indian curry because of its consistency and unique flavors.
+/n/n
+The theory about how rendang was invented claims that the generous use of spices and long cooking hours were employed to preserve the meat in hot and tropical climates, such as Indonesian, so unsurprisingly, the need to preserve meat for a longer period appeared among the Minangkabau people.
+/n/n
+They were mainly traders who underwent long journeys and needed food which could stay fresh for weeks. However, the dish has a more symbolic meaning to them, because the main four ingredients used in rendang represent the Minangkabau society: the meat symbolizes leaders, coconut is a symbol of intellectuals, chili represents religious leadership, and other spices signify the rest of society.
+/n/n
+Today, rendang has surpassed Indonesian borders and has a reputation as one of the most delicious dishes in the world.</item>
+        <item>Sate is a popular and versatile Indonesian dish. It consists of skewered meat served with a sauce. All types of meat can be used to make sate, even some of the exotic varieties such as crocodile or snake meat, but the essential thing is to marinate the meat before grilling.
+        /n/n
+        It is believed that sate originated in the Indonesian region of Java and that it was developed under the influence of Muslim traders who migrated from India. Another theory claims that sate was created in the 19th century by Indonesian street vendors as a variation of Indian kebabs.
+        /n/n
+        The theory is supported by the fact that sate became popular when Muslim and Arab immigrants populated those areas. From the moment it originated in Java, sate has quickly spread throughout Southeast Asia, and eventually all over the world. The popularity of sate resulted in a number of varieties of the dish.
+        /n/n
+        In Indonesia, it has become a national dish and nowadays it can be found everywhere, from street vendors to high-class restaurants. The most common sauces served with sate are peanut, soy, or pineapple sauce.
+</item>
+
+    </string-array>
+
+    <string-array name="Harga">
+        <item>16.0000,00</item>
+        <item>40.0000,00</item>
+        <item>20.0000,00</item>
+        <item>17.0000,00</item>
+        <item>50.0000,00</item>
+        <item>22.0000,00</item>
+        <item>20.0000,00</item>
+        <item>25.0000,00</item>
+        <item>50.0000,00</item>
+        <item>30.0000,00</item>
+    </string-array>
+</resources>
